@@ -16,7 +16,12 @@ To use this script, you need to have Python 3 installed on your machine. You can
 
 
 ```bash
-python script.py <url> [subdir]
+python small_crawler.py <url> [subdir]
+```
+Or
+
+```bash
+./small_crawler.py <url> [subdir]
 ```
 
 - `<url>`: The URL of the webpage to analyze.
