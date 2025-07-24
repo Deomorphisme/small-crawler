@@ -1,6 +1,7 @@
 # small-crawler
 
-This repository contains a Python script for crawling web pages within a specific domain. The script allows you to retrieve all links from a webpage and recursively explore them to find all pages within the same domain. It also offers the option to filter links by a specific subdirectory.
+This repository, created by Deo Gracias Sekongo, contains a Python script for crawling web pages within a specific domain. The script allows you to retrieve all links from a webpage and recursively explore them to find all pages within the same domain. It also offers the option to filter links by a specific subdirectory.
+
 
 ## Features
 
